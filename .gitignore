@@ -220,4 +220,6 @@ __marimo__/
 *.pkl
 *.pkl.gz
 
+similarity.pkl
+
 
